@@ -1,8 +1,13 @@
 pandas
 numpy
+os
 matplotlib
 seaborn
 plotly
 pickle
 datetime
 streamlit
+gzip
+shutil
+sklearn
+streamlit_extras
