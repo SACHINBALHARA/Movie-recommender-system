@@ -41,28 +41,3 @@ Below is an organized structure of the repository files and their purposes:
 ├── .gitignore                    # Git ignore file to exclude unnecessary files
 
 """
-# Dataset Information
-The dataset used in this project is derived from the TMDb 5000 movie dataset. It contains 4803 entries with 20 columns.
-
-## Key Columns:
-- `budget`: Budget of the movie
-- `genres`: Genres of the movie
-- `original_language`: Language of the movie
-- `overview`: Brief synopsis of the movie
-- `popularity`: Popularity score
-- `release_date`: Date of release
-- `revenue`: Revenue generated
-- `runtime`: Duration of the movie
-- `title`: Title of the movie
-- `vote_average`: Average rating of the movie
-
-For full details, explore the dataset included in the repository.
-
-# How to Run the Project
-Follow the steps below to run the project on your local machine:
-
-## Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/Movie-Recommender-System.git  
-cd Movie-Recommender-System  
-
