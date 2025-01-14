@@ -41,3 +41,4 @@ Below is an organized structure of the repository files and their purposes:
 ├── .gitignore                    # Git ignore file to exclude unnecessary files
 
 """
+"""
